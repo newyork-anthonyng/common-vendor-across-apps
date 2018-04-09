@@ -1,0 +1,20 @@
+{
+  "name": "third-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "clean-webpack-plugin": "^0.1.19",
+    "webpack": "^3.11.0"
+  },
+  "dependencies": {
+    "is-finite": "^1.0.2",
+    "lodash": "^4.17.5",
+    "react": "^16.3.1"
+  }
+}

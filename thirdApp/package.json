@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "is-finite": "^1.0.2",
-    "lodash": "^4.17.5",
-    "react": "^16.3.1"
+    "lodash": "4.17.5",
+    "react": "16.3.1"
   }
 }

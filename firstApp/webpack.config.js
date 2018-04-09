@@ -20,7 +20,9 @@ module.exports = {
         filename: "[name].[chunkhash].js"
     },
 
-    plugins: plugins
+    plugins: plugins,
+
+    bail: true
 };
 
 // Old webpack configuration that does not use hwCommonVendor
